@@ -6,6 +6,7 @@ export default function Footer(props) {
       <footer>
         <p
           className="copy"
+          id="rights"
           style={{ color: props.mode === "dark" ? "white" : "black" }}
         >
           &copy; 2022 All Rights Reserved by <span>Jatin Chawla</span>
