@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 
 export default function ContactUs(props) {
-  const messaageSent = () => {
+  const messageSent = () => {
     props.showAlert("Feedback sent", "Sucecss");
   };
   const form = useRef();
@@ -78,10 +78,11 @@ export default function ContactUs(props) {
               <button
                 type="submit"
                 className="btn btn-primary mt-3"
-                onClick={messaageSent}
+                onClick={messageSent}
               >
                 Send
               </button>
+              {props.showAlert("Feedback Sent","Success")}
             </div>
           </form>
         </div>
