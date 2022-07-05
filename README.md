@@ -1,4 +1,4 @@
-#Text Utils
+# Text Utils
 
 This is Textutils created from scratch using Reactjs.
 
