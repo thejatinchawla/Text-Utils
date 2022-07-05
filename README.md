@@ -29,6 +29,7 @@ git clone https://github.com/thejatinchawla/Text-Utils.git
 2. Type this command in the terminal
 ```
 npm run start
+```
 
 ## Deployment
 
