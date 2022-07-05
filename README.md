@@ -33,9 +33,9 @@ npm run start
 
 ## Deployment
 
-To Host the Project I had used Netlify hosting website. To learn more about [Netlify](https://www.netlify.com/)
+To Host the Project I had used Netlify hosting website. To learn more about [Netlify](https://www.netlify.com/) then must visit.
 
-##Author
+## Author
 
 **JATIN CHAWLA**
 
