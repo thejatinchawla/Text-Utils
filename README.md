@@ -3,13 +3,13 @@
 This is Textutils created from scratch using Reactjs.
 
 **DEMO**
-![Screenshot (34)](https://user-images.githubusercontent.com/106448198/192108648-534bd9a3-3029-4f94-9c16-e428e7b8e0b5.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/106448198/192109001-45eaa30a-3ba1-49b3-b74f-4ec870f72e2e.png)
 
-![Screenshot (35)](https://user-images.githubusercontent.com/106448198/192108653-e9d40ea8-8993-4e9a-b095-c206044e8e6a.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/106448198/192109005-2f75e5b7-f973-47bf-8189-7bf7833ebae8.png)
 
-![Screenshot (36)](https://user-images.githubusercontent.com/106448198/192108659-e95c5c01-da04-46d2-8efb-99f9666ddcb9.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/106448198/192109008-9fc8f0e9-d39e-4475-8614-35441b33242e.png)
 
-![Screenshot (37)](https://user-images.githubusercontent.com/106448198/192108662-c6d4ba94-8417-4354-9820-fc0c38f6b42d.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/106448198/192109018-8e2b8c0d-0454-4576-a959-24daa72c133e.png)
 
 ## Getting Started
 
