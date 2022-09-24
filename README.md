@@ -2,7 +2,7 @@
 
 This is Textutils created from scratch using Reactjs.
 
-**DEMO**
+**SCREENSHOTS**
 ![Screenshot (34)](https://user-images.githubusercontent.com/106448198/192109001-45eaa30a-3ba1-49b3-b74f-4ec870f72e2e.png)
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/106448198/192109005-2f75e5b7-f973-47bf-8189-7bf7833ebae8.png)
