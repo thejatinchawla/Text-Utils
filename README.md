@@ -2,6 +2,9 @@
 
 This is Textutils created from scratch using Reactjs.
 
+**DEMO**
+https://user-images.githubusercontent.com/106448198/192107864-266f68d0-4bdd-41c4-bd70-85749a0e1e4f.mp4
+
 ## Getting Started
 
 **Text Utils** is simple and awesome **app** to organize your Texts with very easy to use interface. 
